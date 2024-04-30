@@ -1,0 +1,1 @@
+ssh -i private/AI_travel_proj.txt root@159.65.88.48
